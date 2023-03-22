@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH\\BTH.csproj": {}
+    "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\TrongKhaBTH\\BTH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH\\BTH.csproj": {
+    "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\TrongKhaBTH\\BTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH\\BTH.csproj",
+        "projectUniqueName": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\TrongKhaBTH\\BTH.csproj",
         "projectName": "BTH",
-        "projectPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH\\BTH.csproj",
+        "projectPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\TrongKhaBTH\\BTH.csproj",
         "packagesPath": "C:\\Users\\KHA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH\\obj\\",
+        "outputPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\TrongKhaBTH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

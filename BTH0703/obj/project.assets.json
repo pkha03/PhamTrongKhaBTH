@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH0703\\BTH0703.csproj",
+      "projectUniqueName": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\BTH0703\\BTH0703.csproj",
       "projectName": "BTH0703",
-      "projectPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH0703\\BTH0703.csproj",
+      "projectPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\BTH0703\\BTH0703.csproj",
       "packagesPath": "C:\\Users\\KHA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\BTH0703\\obj\\",
+      "outputPath": "C:\\Users\\KHA\\Desktop\\PTPMQL\\PhamTrongKhaBTH\\BTH0703\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
