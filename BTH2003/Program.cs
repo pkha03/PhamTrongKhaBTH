@@ -1,4 +1,4 @@
-using _2003.Data;
+using BTH2003.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
